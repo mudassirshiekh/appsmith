@@ -31,6 +31,7 @@ Organizations build internal applications such as dashboards, database GUIs, adm
 
 
 ## Installation
+## By Mudassir Alam
 There are two ways to start using Appsmith:
 
 - Signup on [Appsmith Cloud](https://app.appsmith.com/?utm_source=github&utm_medium=organic&utm_campaign=readme).
